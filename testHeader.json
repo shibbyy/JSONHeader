@@ -1,8 +1,8 @@
 {
-  "status" : 0,
+  "status" : 1,
   "data": {
-        "message": "The Bitbns-Dash Trade Contest is Back!",
-        "hasLink": true,
+        "message": "USDT withdrawal fees slashed by 50%",
+        "hasLink": false,
         "link": "http://bit.ly/2WVHZFQ"
     }
 }
