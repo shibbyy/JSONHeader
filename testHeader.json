@@ -1,7 +1,7 @@
 {
-  "status" : 0,
+  "status" : 1,
   "data": {
-        "message": "USDT withdrawal fees slashed by 50%",
+        "message": "Deposit addresses for XMR has been changed for all users. Please check before depositing",
         "hasLink": false,
         "link": "http://bit.ly/2WVHZFQ"
     }
